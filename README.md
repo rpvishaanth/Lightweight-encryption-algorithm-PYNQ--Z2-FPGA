@@ -1,5 +1,4 @@
-# Lightweight-encryption-algorithm-PYNQ--Z2-FPGA
-# 🔐 PRESENT Cipher with Chaotic S-Box on PYNQ-Z2 FPGA
+#  PRESENT Cipher with Chaotic S-Box on PYNQ-Z2 FPGA
 
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge&logo=v)
 ![FPGA](https://img.shields.io/badge/Board-PYNQ--Z2-orange?style=for-the-badge)

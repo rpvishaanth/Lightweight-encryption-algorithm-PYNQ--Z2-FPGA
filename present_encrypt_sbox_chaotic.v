@@ -33,9 +33,6 @@
 // Port:           Same as PRESENT_ENCRYPT_SBOX — direct drop-in replacement
 //
 // Language:       Verilog 2001
-// Author:         Vishaanth R P (24MES1016)
-// Supervisor:     Dr. Balakrishnan R, SENSE, VIT Chennai
-// Date:           2024
 // Platform:       PYNQ-Z2 (XC7Z020CLG400-1)
 //
 //======================================================================
